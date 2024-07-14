@@ -6,7 +6,7 @@ Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
-Java Development Kit (JDK) installed on your system
+Java Development Kit (JDK) installed on your system   (use jdk-21)
 An IDE like IntelliJ IDEA, Eclipse, or NetBeans
 Installing
 Clone the repository:
